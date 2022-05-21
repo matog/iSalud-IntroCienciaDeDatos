@@ -1,6 +1,6 @@
 # Introducción a la ciencia de datos en salud con Python
 
-Los notebooks y bases de datos actualizados del curso están disponibles en Github, un repositorio muy usando en el mundo de la programación y ciencia de datos para intercambiar información.
+Los notebooks y bases de datos actualizados del curso están disponibles en el [Github del curso](https://github.com/matog/iSalud-IntroCienciaDeDatos), un repositorio muy usando en el mundo de la programación y ciencia de datos para intercambiar información.
 
 #### Módulo I: Introducción a la programación en Python
 - Cómo instalar Python

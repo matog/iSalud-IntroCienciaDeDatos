@@ -1,8 +1,8 @@
-Introducción a la ciencia de datos en salud con Python
+# Introducción a la ciencia de datos en salud con Python
 
 Los notebooks y bases de datos actualizados del curso están disponibles en Github, un repositorio muy usando en el mundo de la programación y ciencia de datos para intercambiar información.
 
-﻿## Introducción a la ciencia de datos con Python
+### Introducción a la ciencia de datos con Python
 Programa analítico
 
 #### Módulo I: Introducción a la programación en Python

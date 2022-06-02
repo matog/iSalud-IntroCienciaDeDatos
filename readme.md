@@ -50,7 +50,7 @@ Los notebooks y bases de datos actualizados del curso están disponibles en el [
 
 #### Recursos adicionales:
 
-- Kaggle:  Sitio con datagrames y notebooks preparados para practicar EDA y machine learning. Bases de datos de todo tipo, con código comentado. Recomendado para practicar con datos reales.
-- Google Colab: Editor y ejecutor de notebooks en la nube. No hace falta instalar nada local. Gratis.
+- [Kaggle](https://www.kaggle.com/):  Sitio con datagrames y notebooks preparados para practicar EDA y machine learning. Bases de datos de todo tipo, con código comentado. Recomendado para practicar con datos reales.
+- [Google Colab](https://colab.research.google.com): Editor y ejecutor de notebooks en la nube. No hace falta instalar nada local. Gratis.
 - [Corey Schafer](https://www.youtube.com/c/Coreyms/playlists): Excelente fuente de tutoriales sobre Python.
 - [Keith Galli](https://www.youtube.com/watch?v=vmEHCJofslg&t=13s): Completo tutorial de Pandas
